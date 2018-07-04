@@ -84,7 +84,7 @@ You can see in which language an app is written. Currently there are following l
 ### Audio
 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, 一个macOS的音频工具: 当其它音频播放时自动暂停音乐播放器, 设置单个应用程序的音量和记录系统声音。 ![CppIcon]
-- [Cog](https://github.com/kode54/Cog) - 一个免费开源的macOS 音频播放器。 ![CIcon]
+- [Cog](https://github.com/kode54/Cog) - 一个免费开源的macOS音频播放器。 ![CIcon]
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - 一个可以设置麦克风输入音量静音、取消静音的macOS应用。 完美的播客。 ![CIcon] ![ObjectiveCIcon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - 键盘打字音效。 ![RustIcon]
 - [Mous Player](https://github.com/bsdelf/mous) - 简单且功能强大的音频播放器支持BSD/Linux/macOS。 ![CppIcon]
@@ -96,16 +96,16 @@ You can see in which language an app is written. Currently there are following l
 - [fre:ac](https://github.com/enzo1982/freac) - fre:ac 一个音频格式转换项目。 ![CppIcon]
 - [CAM](https://github.com/hanayik/CAM) - 一个macOS基于ffmpeg的摄像头录制软件。 ![JavascriptIcon]
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - 在你的菜单栏显示Spotify和iTunes。 ![SwiftIcon] ![ObjectiveCIcon]
-- [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
-- [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
-- [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
-- [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
-- [jmc](https://github.com/jcm93/jmc) - jmc - new macOS media organizer. ![SwiftIcon]
-- [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
-- [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
+- [Lyricism](https://github.com/lyc2345/Lyricism) - 一款当iTunes或Spotify播放时显示歌词的macOS应用。
+- [waveSDR](https://github.com/getoffmyhack/waveSDR) - 一个使用RTL-SDR USB设备的macOS桌面软件无线电应用。
+- [Lyrics](https://github.com/MichaelRow/Lyrics) - 一个基于Swift的iTunes插件，用于在桌面上显示歌词。 ![SwiftIcon]
+- [LyricsX](https://github.com/ddddxxx/LyricsX) - 显示iTunes, Spotify和Vox的歌词。 ![SwiftIcon]
+- [jmc](https://github.com/jcm93/jmc) - jmc - 一个全新的macOS媒体管理工具。 ![SwiftIcon]
+- [Muse](https://github.com/xzzz9097/Muse) - 一个支持TouchBar的开源的Spotify控制器。
+- [Sonora](https://github.com/sonoramac/Sonora) - 一个设计精美，极简的macOS音乐播放器。 ![ObjectiveCIcon]
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
-- [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![ObjectiveCIcon]
-- [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
+- [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - 这个软件可以让你使用音量加减热键来控制iTunes的音量。 ![ObjectiveCIcon]
+- [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - 在Last.fm上的专辑、收音机和电影。 ![ObjectiveCIcon]
 
 ### Backup
 
