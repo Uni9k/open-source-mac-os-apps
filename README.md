@@ -83,19 +83,19 @@ You can see in which language an app is written. Currently there are following l
 
 ### Audio
 
-- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, 一个macOS的音频工具: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
-- [Cog](https://github.com/kode54/Cog) - Free and Open Source Audio Player for macOS. ![CIcon]
-- [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![CIcon] ![ObjectiveCIcon]
-- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![RustIcon]
-- [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
-- [SpotSpot](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS. ![JavascriptIcon]
-- [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
-- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
-- [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
-- [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon]
-- [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
-- [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon]
-- [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, 一个macOS的音频工具: 当其它音频播放时自动暂停音乐播放器, 设置单个应用程序的音量和记录系统声音。 ![CppIcon]
+- [Cog](https://github.com/kode54/Cog) - 一个免费开源的macOS 音频播放器。 ![CIcon]
+- [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - 一个可以设置麦克风输入音量静音、取消静音的macOS应用。 完美的播客。 ![CIcon] ![ObjectiveCIcon]
+- [Tickeys](https://github.com/yingDev/Tickeys) - 键盘打字音效。 ![RustIcon]
+- [Mous Player](https://github.com/bsdelf/mous) - 简单且功能强大的音频播放器支持BSD/Linux/macOS。 ![CppIcon]
+- [SpotSpot](https://github.com/will-stone/SpotSpot) - 一个迷你音乐播放器，支持macOS。 ![JavascriptIcon]
+- [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer是一个美丽且功能强大的媒体播放器，基于VLCKit。 ![ObjectiveCIcon]
+- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player是一个支持macOS平台的免费开源的音频播放器应用。 灵感来自Windows经典的Winamp播放器，设计它是为了达到易用的程度。 ![SwiftIcon]
+- [Suohai](https://github.com/Sunnyyoung/Suohai) - 一个可以锁定音频输入/输出设备的macOS应用程序。 ![SwiftIcon]
+- [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio是一个可以在你的Mac和手持设备上听调频广播的软件。 ![ObjectiveCIcon]
+- [fre:ac](https://github.com/enzo1982/freac) - fre:ac 一个音频格式转换项目。 ![CppIcon]
+- [CAM](https://github.com/hanayik/CAM) - 一个macOS基于ffmpeg的摄像头录制软件。 ![JavascriptIcon]
+- [SpotMenu](https://github.com/kmikiy/SpotMenu) - 在你的菜单栏显示Spotify和iTunes。 ![SwiftIcon] ![ObjectiveCIcon]
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
