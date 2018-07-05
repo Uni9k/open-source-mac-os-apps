@@ -128,21 +128,21 @@ You can see in which language an app is written. Currently there are following l
 
 ### Chat
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
-- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
-- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X. ![ObjectiveCIcon]
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![JavascriptIcon]
-- [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![ObjectiveCIcon]
-- [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![SwiftIcon]
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native OS X & Windows desktop app for Google Allo.
-- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
-- [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
-- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
-- [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
-- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
-- [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
-- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![SwiftIcon]
-- [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![JavascriptIcon]
+- [ChitChat](https://github.com/stonesam92/ChitChat) - 将Whatsapp Web端打包成macOS本地应用。 ![ObjectiveCIcon]
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram桌面通讯应用。 ![CppIcon]
+- [Textual](https://github.com/Codeux-Software/Textual) - Textual是一个在线聊天客户端，支持macOS。 ![ObjectiveCIcon]
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 一个最好的微信客户端，支持macOS和Linux。 ![JavascriptIcon]
+- [Telegram [Deprecated]](https://github.com/overtake/telegram) - 开源的过时的Telegram版本。 ![ObjectiveCIcon]
+- [Telegram](https://github.com/overtake/TelegramSwift) - 基于Swift开发的开源Telegram客户端。 ![SwiftIcon]
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Google Allo的macOS本地、Windows桌面应用。.
+- [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的GroupMe应用。 ![JavascriptIcon] ![CSSIcon]
+- [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac是一个非官方的macOS本地应用。 ![ObjectiveCIcon]
+- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - 连接你的Signal iOS或者安卓应用。 ![JavascriptIcon]
+- [Wire Desktop](https://github.com/wireapp/wire-desktop) - 基于Electron开发，Wire的独立应用。 ![JavascriptIcon]
+- [Messenger](https://github.com/rsms/fb-mac-messenger) - Facebook的Messenger的macOS桌面应用。 ![ObjectiveCIcon]
+- [Franz](https://github.com/meetfranz/franz) - Franz是一个类似WhatsApp, Slack, Messenger的即时通讯应用。 ![JavascriptIcon]
+- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - 从菜单栏发送WhatsApp消息。 ![SwiftIcon]
+- [Riot.im](https://github.com/vector-im/riot-web) - Riot.im是一个使用[Matrix](https://matrix.org/blog/home/)协议的协作应用（基于Electron开发）。 ![JavascriptIcon]
 
 ### Cryptocurrency
 
