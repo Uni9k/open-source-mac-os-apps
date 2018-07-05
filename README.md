@@ -109,21 +109,21 @@ You can see in which language an app is written. Currently there are following l
 
 ### Backup
 
-- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![PythonIcon]
-- [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, macOS and Linux. ![CIcon] ![CppIcon]
+- [Mackup](https://github.com/lra/mackup) - 备份你的应用程序设置。 (OS X/Linux). ![PythonIcon]
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - 轻松创建轻量级安装应用程序文档、隐藏文件，等等。 ![PythonIcon]
+- [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - （客户端/服务端）开源的网络备份软件，支持Windows, macOS和Linux。 ![CIcon] ![CppIcon]
 
 ### Browser
 
-- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
-- [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.
-- [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![SwiftIcon]
-- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
-- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
-- [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
-- [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
-- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, OSX and Linux. ![JavascriptIcon]
-- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![JavascriptIcon]
+- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser，一个可以运行在你的台式电脑和笔记本上的支持Windows, OSX和Linux的浏览器 ![JavascriptIcon]
+- [browserosaurus](https://github.com/will-stone/browserosaurus) - 一个当你打开链接提示你选择浏览器的macOS工具。
+- [Finicky](https://github.com/johnste/finicky) - 总是打开正确的浏览器。 ![SwiftIcon]
+- [Helium](https://github.com/JadenGeller/Helium) - 浮动显示你的浏览器窗口，支持macOS。 ![SwiftIcon] ![ObjectiveCIcon]
+- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.Otter Browser基于Qt5开发，旨在重现最经典的Opera (12.x) UI。 ![CppIcon]
+- [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - 安全考试浏览器，支持iOS和macOS。 ![CIcon]
+- [Firefox](https://hg.mozilla.org/mozilla-central/) - 当前的Firefox，Gecko开发。
+- [Kaktus Browser](https://github.com/kaktus/kaktus) - n一个极简化的实验性网页浏览器，支持Windows, OSX和Linux。 ![JavascriptIcon]
+- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker是一个点对点的实验性浏览器。  ![JavascriptIcon]
 
 
 ### Chat
